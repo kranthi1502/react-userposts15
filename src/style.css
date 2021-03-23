@@ -1,0 +1,7 @@
+h1, p {
+  font-family: Lato;
+}
+.comments{
+  border: 1px solid black;
+  margin-top: 10px;
+}
